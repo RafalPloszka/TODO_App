@@ -1,5 +1,5 @@
 # Todo App 
-![App view](public/todo_screen_2.jpg)  
+![App view](public/todo_screen_2.jpg =250x250)  
 My very first project using React (including hooks and context).   
 It's simple todo app with a few features:
 * add a new task
