@@ -1,5 +1,6 @@
 # Todo App 
-My very first project using React (including hooks and context). 
+![App view](public/todo_screen_1.jpg)  
+My very first project using React (including hooks and context).   
 It's simple todo app with a few features:
 * add a new task
 * edit a task
