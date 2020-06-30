@@ -8,6 +8,9 @@ It's simple todo app with a few features:
 * mark a task as done
 * data saved through local storage
 
+## Demo
+To view a demo [click here](https://rafal-ploszka-todo.herokuapp.com).
+
 ## Getting started
 Clone down this repo. You will need node and npm installed globally on your machine.
 
